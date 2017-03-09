@@ -8,5 +8,6 @@ namespace MyOrg.testBala
 {
     interface Interface1
     {
+        void method();
     }
 }
