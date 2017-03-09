@@ -1,13 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MyOrg.testBala
+﻿namespace MyOrg.testBala
 {
-    interface Interface1
+    internal interface Interface1
     {
-        void method();
+        void method1();
     }
 }
